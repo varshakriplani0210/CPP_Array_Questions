@@ -18,8 +18,9 @@ int main()
         if(arr[0]<arr[i])
         {
             arr[0]=arr[i];
-            cout<<"the largest element is "<<arr[0]<<endl;
+            
         }
     }
+    cout<<"the largest element is "<<arr[0]<<endl;
     
 }
